@@ -1,0 +1,16 @@
+*.webm
+*.mp4
+*.mov
+*.mkv
+
+
+ML/ML1_Introduction.ID_1254798-1/src/data/
+
+# common junk
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+node_modules/

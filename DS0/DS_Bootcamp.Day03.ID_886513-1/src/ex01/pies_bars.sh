@@ -1,0 +1,1 @@
+termgraph $1 --color 'magenta' 'cyan'

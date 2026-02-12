@@ -1,0 +1,14 @@
+('Total Revenue', '281,724,000 ', '281,724,000 ', '245,122,000 ', '211,915,000 ', '198,270,000 ')
+         205 function calls in 13.829 seconds
+
+   Ordered by: internal time
+   List reduced from 74 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1   13.828   13.828   13.828   13.828 {built-in method posix.waitpid}
+        1    0.001    0.001    0.001    0.001 {built-in method _posixsubprocess.fork_exec}
+        9    0.000    0.000    0.000    0.000 <frozen posixpath>:72(join)
+        1    0.000    0.000    0.001    0.001 /usr/lib/python3.13/subprocess.py:1808(_execute_child)
+       10    0.000    0.000    0.000    0.000 <frozen os>:844(fsencode)
+
+

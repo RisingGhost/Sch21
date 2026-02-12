@@ -1,0 +1,9 @@
+num_of_steps = 3
+has_header = True
+file_name = "result"
+extension = "txt"
+path = "data.csv"
+text_template = """We made {lines} observations by tossing a coin: {tails} were tails and {heads} were heads. The probabilities are {right:.2f}% and {left:.2f}%, respectively. Our forecast is that the next {num} observations will be: {tails_predict} tail and {heads_predict} heads."""
+chat_id_id = "@arabellt_reports_DS01_ex06"
+bot_token = "7602992849:AAGJfjetDRe672BQT5aiowS9atDGLAxOeXM"
+flag = True
