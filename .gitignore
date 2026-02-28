@@ -14,3 +14,12 @@ __pycache__/
 .venv/
 .env
 node_modules/
+
+# data
+src/data/
+*.json
+
+# images / artifacts
+misc/images/
+*.jpg
+*.png
