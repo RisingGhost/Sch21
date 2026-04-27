@@ -39,3 +39,7 @@ dist/
 .ruff_cache/
 .coverage
 htmlcov/
+
+# Large datasets
+*.json
+*.csv
