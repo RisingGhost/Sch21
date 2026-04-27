@@ -43,3 +43,6 @@ htmlcov/
 # Large datasets
 *.json
 *.csv
+# Datasets
+*.json
+*.csv
